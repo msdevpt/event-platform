@@ -1,4 +1,4 @@
-import { Event } from './pages/event';
+import { Event } from './pages/Event';
 import { Subscribe } from './pages/Subscribe';
 import { Route, Routes } from 'react-router-dom';
 
