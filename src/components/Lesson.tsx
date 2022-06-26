@@ -1,5 +1,5 @@
 import { isPast, format } from 'date-fns';
-import ptPT from 'date-fns/locale/pt';
+import enUS from 'date-fns/locale/en-US';
 import { CheckCircle, Lock } from 'phosphor-react';
 import { Link, useParams } from 'react-router-dom';
 import classNames from 'classnames';
@@ -16,7 +16,7 @@ export function Lesson(props: LessonProps){
 
   const isLessonAvailable = isPast(props.availableAt);
   const availableDateFormatted = format(props.availableAt, "EEEE '•' dd 'de' MMMM '•' HH'h'mm",{
-    locale: ptPT
+    locale: enUS
   });
 
   const isActiveLesson = slug === props.slug;
