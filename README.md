@@ -14,16 +14,15 @@
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Deployment**: [Vercel](https://vercel.com)
 
-## Learn More
+## Screenshots
 
-This project was developed in the [Rocketseat](https://www.rocketseat.com.br/) Ignite Lab 2 week using the most modern technologies in application development.
-With the aim of providing a platform on which it presents videos that will be made available on a certain date for viewing.
+<img src="media/subscribe.jpg" alt="Subscribe" />
+<img src="media/lessons.jpg" alt="Lessons" /> 
 
 ## Overview
 
-- Signup user/email to access the platform
-- Show the lessons 
-- Watch released lesson
+This project was developed in the [Rocketseat](https://www.rocketseat.com.br/) Ignite Lab 2 week using the most modern technologies in application development.
+With the aim of providing a platform on which it presents videos that will be made available on a certain date for viewing.
 
 ## Running Locally
 
