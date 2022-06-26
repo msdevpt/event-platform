@@ -1,4 +1,4 @@
-# Event Plataform
+# Event Platform
 
 ## Tech used:
 
